@@ -1,0 +1,9 @@
+[submodule "dependencies/busybox"]
+	path = dependencies/busybox
+	url = https://git.busybox.net/busybox
+[submodule "dependencies/linux"]
+	path = dependencies/linux
+	url = https://github.com/torvalds/linux
+[submodule "dependencies/libxcrypt"]
+	path = dependencies/libxcrypt
+	url = https://github.com/besser82/libxcrypt/
