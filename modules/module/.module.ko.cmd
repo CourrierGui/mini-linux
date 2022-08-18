@@ -1,0 +1,1 @@
+cmd_/home/guillaume/dev/linux-dev/modules/module.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/guillaume/dev/linux-dev/modules/module.ko /home/guillaume/dev/linux-dev/modules/module.o /home/guillaume/dev/linux-dev/modules/module.mod.o;  true
